@@ -13,33 +13,33 @@ import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
 
 // about data
 const about = {
-  title: "About me",
+  title: "About Me",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "I'm a passionate Full-Stack Developer with a strong interest in creating modern, user-friendly, and efficient web applications. I’ve completed the Full Stack Bootcamp at Najot Ta’lim and now work on small real-world projects to sharpen my skills every day.",
   info: [
     {
       fieldName: "Name",
-      fieldValue: "Luke Coleman",
+      fieldValue: "Botir Qakhramoniy",
     },
     {
       fieldName: "Phone",
-      fieldValue: "(+40) 321 654 678",
+      fieldValue: "+998 99 131 88 51",
     },
     {
       fieldName: "Experience",
-      fieldValue: "12+ Years",
+      fieldValue: "1+ Year",
     },
     {
-      fieldName: "Skype",
-      fieldValue: "luke.01",
+      fieldName: "Telegram",
+      fieldValue: "@Botir_Qakhramoniy",
     },
     {
       fieldName: "Nationality",
-      fieldValue: "American",
+      fieldValue: "Uzbek",
     },
     {
       fieldName: "Email",
-      fieldValue: "luke.01@gmail.com",
+      fieldValue: "raimboyevbotir@gmail.com",
     },
     {
       fieldName: "Freelance",
@@ -47,7 +47,7 @@ const about = {
     },
     {
       fieldName: "Languages",
-      fieldValue: "English, Spanish",
+      fieldValue: "Uzbek, English",
     },
   ],
 };
@@ -57,37 +57,27 @@ const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My experience",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "Over the years, I have worked on diverse projects, gaining hands-on experience in both front-end and back-end development.",
   items: [
     {
-      company: "Tech Solutions Inc.",
+      company: "Personal Projects",
       position: "Full Stack Developer",
-      duration: "2022 - Present",
+      duration: "2024 - Present",
     },
     {
-      company: "Web Design Studio",
-      position: "Front-End Developer Intern",
-      duration: "Summer 2021",
+      company: "Najot Ta'lim",
+      position: "Backand Developer",
+      duration: "2024 - 2025",
     },
     {
-      company: "E-commerce Startup",
-      position: "Freelance Web Developer",
-      duration: "2020 - 2021",
+      company: "Freelance",
+      position: "Front-End Developer",
+      duration: "2023 - 2024",
     },
     {
-      company: "Tech Academy",
-      position: "Teaching Assistant",
-      duration: "2019 - 2020",
-    },
-    {
-      company: "Digital Agency",
-      position: "UI/UX Designer",
-      duration: "2018 - 2019",
-    },
-    {
-      company: "Software Development Firm",
-      position: "Junior Developer",
-      duration: "2017 - 2018",
+      company: "Local IT Projects",
+      position: "Junior Web Developer",
+      duration: "2022 - 2023",
     },
   ],
 };
@@ -100,34 +90,24 @@ const education = {
     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
   items: [
     {
-      institution: "Online Course Platform",
-      degree: "Full Stack Web Development Bootcamp",
-      duration: "2023",
+      institution: "IT Park Training Center",
+      degree: "Fundamentals of Programming",
+      duration: "2021 - 2022",
     },
     {
-      institution: "Codecademy",
-      degree: "Front-end Track",
-      duration: "2022",
+      institution: "Online Video Courses",
+      degree: "Self-taught Frontend Development",
+      duration: "2022 - 2023",
     },
     {
-      institution: "Online Course",
-      degree: "Programming Course",
-      duration: "2020 - 2021",
+      institution: "Najot Ta'lim Bootcamp",
+      degree: "Full Stack Development",
+      duration: "2024 - 2025",
     },
     {
-      institution: "Tech Institute",
-      degree: "Certified Web Developer",
-      duration: "2019",
-    },
-    {
-      institution: "Design School",
-      degree: "Diploma in Graphic Design",
-      duration: "2016 - 2018",
-    },
-    {
-      institution: "Community College",
-      degree: "Associate Degree in Computer Science",
-      duration: "2014 - 2016",
+      institution: "NAMDTU",
+      degree: "Bachelor in Business Administration",
+      duration: "2023 - Present",
     },
   ],
 };
@@ -136,7 +116,7 @@ const education = {
 const skills = {
   title: "My skills",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "During the training process, I acquired solid skills in front-end and back-end development. I enjoy working with the modern tools listed below to create fast and flexible web applications.",
   skillList: [
     {
       icon: <FaHtml5 />,

@@ -20,17 +20,17 @@ const info = [
   {
     icon: <FaPhoneAlt />,
     title: "Phone",
-    description: "(+40) 321 654 876",
+    description: "+998 99 131 88 51",
   },
   {
     icon: <FaEnvelope />,
     title: "Email",
-    description: "youremail@gmail.com",
+    description: "raimboyevbotir@gmail.com",
   },
   {
     icon: <FaMapMarkerAlt />,
     title: "Address",
-    description: "Code Corner, Tech Town 13579",
+    description: "Khorezm, Uzbekistan",
   },
 ];
 
