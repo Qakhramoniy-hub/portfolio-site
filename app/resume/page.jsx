@@ -87,7 +87,7 @@ const education = {
   icon: "/assets/resume/cap.svg",
   title: "My education",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "I have been interested in programming from a young age and continue to learn as new technologies emerge. At the same time, due to my interest in business, I chose to study business administration at university.",
   items: [
     {
       institution: "IT Park Training Center",

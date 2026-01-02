@@ -20,9 +20,9 @@ const services = [
   },
   {
     num: "03",
-    title: "Logo Design",
+    title: "Backend Development",
     description:
-      "I design creative and memorable logos that perfectly represent your brand's identity.",
+      "I develop reliable backend solutions, creating fast APIs, managing databases, and ensuring smooth server-side functionality.",
     href: "",
   },
   {
