@@ -15,7 +15,7 @@ import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
 const about = {
   title: "About Me",
   description:
-    "I'm a passionate Full-Stack Developer with a strong interest in creating modern, user-friendly, and efficient web applications. I’ve completed the Full Stack Bootcamp at Najot Ta’lim and now work on small real-world projects to sharpen my skills every day.",
+    "I am a passionate Junior Full-Stack Developer focused on building modern and efficient web applications using JavaScript, React, Node.js, and PostgreSQL. I completed the Full-Stack Bootcamp at Najot Talim and actively work on real-world projects to continuously improve my skills.",
   info: [
     {
       fieldName: "Name",
